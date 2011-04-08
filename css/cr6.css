@@ -1,0 +1,28 @@
+body{
+	height:300px;
+	width:900px;
+}
+.content{
+	border:1px solid #007c00;
+	-webkit-border-radius:5px;
+	min-width:800px;
+	min-height:250px;
+	background-image: -webkit-gradient(
+    	linear,
+    	left bottom,
+    	left top,
+    	color-stop(0.19, rgb(28,28,23)),
+    	color-stop(0.51, rgb(46,71,48)),
+    	color-stop(0.84, rgb(32,48,34))
+	);
+	color:#1fd92b;
+	float:left;
+	positon:relative;
+}
+
+div#explorer{
+	width:30px;
+	height:100%;
+	position:relative;
+	float:left;
+}

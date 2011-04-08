@@ -1,0 +1,17 @@
+{
+  "name": "hexavalent",
+  "version": "0.0.1",
+  "description": "Javascript based ViM style in-page HTML/JS/CSS editor",
+  "icons":{ "16": "img/icon16.png",
+  	    "48": "img/icon48.png",
+	   "128": "img/icon128.png" 
+	  },
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "popup": "popup.html"
+  },
+  "permissions": [
+   	"http://ajax.googleapis.com/"
+  ]
+}
+
