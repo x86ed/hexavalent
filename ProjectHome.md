@@ -1,0 +1,1 @@
+Hexavalent is an in page editor that bridges the functionality of ViM with that of Firebug and or webkit Developer Tools allowing you to edit and save web pages in the browser. It's targeted for use with Chrome/ChromeOs but will hopefully work with other browsers in the future
